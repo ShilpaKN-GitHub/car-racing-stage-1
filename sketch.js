@@ -23,7 +23,7 @@ function draw()
 
   if(gameState === 1)
   {
-    clearInterval();
+    clear();
     game.play();
   }
 }
